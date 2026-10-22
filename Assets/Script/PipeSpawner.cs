@@ -16,7 +16,7 @@ public class PipeSpawner : MonoBehaviour
 
     void Start()
     {
-        timer = 0f;
+        timer = spawnTime;
     }
 
     void Update()
